@@ -1,10 +1,16 @@
 1. Install Node.js / NPM.
-2. Install dependencies.
 
-    npm install
+2. Clone repository and navigate to its directory.
 
-3. Build application.
+        git clone https://github.com/davidisaaclee/thsj.git
+        cd thjs
 
-    gulp
-    
-4. Open website from `www/index.html`.
+3. Install dependencies.
+
+        npm install
+
+4. Build application.
+
+        gulp
+
+5. View website by opening `www/index.html`.
