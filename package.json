@@ -1,0 +1,24 @@
+{
+  "name": "thsj",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^10.2.1",
+    "gulp": "~3.8.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-coffeeify": "^0.1.8",
+    "gulp-jade": "^1.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-stylus": "~1.0.2",
+    "rx": "^2.5.2",
+    "terminal-notifier": "0.1.2",
+    "three": "^0.71.0",
+    "underscore": "^1.8.3",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "~0.8.3"
+  }
+}
