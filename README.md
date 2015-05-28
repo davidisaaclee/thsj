@@ -3,7 +3,7 @@
 2. Clone repository and navigate to its directory.
 
         git clone https://github.com/davidisaaclee/thsj.git
-        cd thjs
+        cd thsj
 
 3. Install dependencies.
 
